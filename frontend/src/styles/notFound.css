@@ -1,0 +1,17 @@
+.not-found-container {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found-container > h1 {
+  text-align: center;
+}
+
+.not-found-container > p {
+  text-align: center;
+  font-size: 1.2rem;
+}
